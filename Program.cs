@@ -15,8 +15,7 @@ namespace ExemploHttpClient
     class Program
     {
 
-        // Consulta: H:\Dropbox (MKII Corporation)\Capta Tecnologia\Moedas\
-        // Consulta: H:\Dropbox (MKII Corporation)\Capta Tecnologia\teste-unitario\
+        // Moedas, teste-unitario
 
         private static readonly int opcao = 1;
 
