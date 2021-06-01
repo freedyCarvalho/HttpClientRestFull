@@ -9,7 +9,7 @@ namespace ExemploHttpClient
 {
     public interface IMoedaApiService
     {
-        Task<List<MoedaResponse>>GetMoeda();
+        Task<List<MoedaResponse.Value>>GetMoeda();
 
     }
 }
